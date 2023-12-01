@@ -1,5 +1,5 @@
 #!/bin/sh
-# inpath - verify that a specified program is either valid as-is,
+# inpath - verify that a specified program is either valid as-is
 #   or can be found in the PATH directory list.
 
 in_path()
